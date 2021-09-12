@@ -1,15 +1,5 @@
-
-html5up.net | @ajlkn
-
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-
-
+Hello there! Welcome to my profile! 
+This webpage showcases a few of my projects and a little bit of my story!
 
 Credits:
 
